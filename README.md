@@ -1,2 +1,5 @@
 # hello-world
-This is where I store ideas, and resources
+
+Hello
+
+I, Gaurav, have started my GitHub journey. I am not sure why or where I intend to reach but it is a journey I have to go on. 
